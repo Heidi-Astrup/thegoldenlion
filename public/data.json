@@ -186,5 +186,9 @@
       "artist": "Grease",
       "length": "2:48"
     }
+  },
+  "user": {
+    "name": "bartender",
+    "password": "password1234"
   }
 }
