@@ -1,0 +1,190 @@
+{
+  "footballmatch": {
+    "11": {
+      "weekday": "Monday",
+      "date": "2025-12-01",
+      "time": "19:00",
+      "team_home": "Brønby",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Brondby_IF_logo.svg/990px-Brondby_IF_logo.svg.png",
+      "team_away": "FC Fredericia",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/8/81/FC_Fredericia.png"
+    },
+    "12": {
+      "weekday": "Friday",
+      "date": "2025-12-05",
+      "time": "16:00",
+      "team_home": "FC Fredericia",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/8/81/FC_Fredericia.png",
+      "team_away": "OB",
+      "away_logo": "https://www.obfodbold.dk/media/1791/ob_logo.png"
+    },
+    "13": {
+      "weekday": "Sunday",
+      "date": "2025-12-07",
+      "time": "14:00",
+      "team_home": "FC Midtjylland",
+      "home_logo": "https://www.fcm.dk/app/themes/fcm/dist/images/logo.svg",
+      "team_away": "Viborg",
+      "away_logo": "https://www.vff.dk/images/Logo/VFF_primaerlogo_cmyk_compr_med.png"
+    },
+    "14": {
+      "weekday": "Monday",
+      "date": "2025-12-08",
+      "time": "19:00",
+      "team_home": "Vejle",
+      "home_logo": "https://www.vejleboldklub.dk/media/1221/107598_logo.png",
+      "team_away": "Brønby",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Brondby_IF_logo.svg/990px-Brondby_IF_logo.svg.png"
+    },
+    "15": {
+      "weekday": "Sunday",
+      "date": "2026-02-08",
+      "time": "16:00",
+      "team_home": "FC Midtjylland",
+      "home_logo": "https://www.fcm.dk/app/themes/fcm/dist/images/logo.svg",
+      "team_away": "FCK",
+      "away_logo": "https://www.fck.dk/sites/default/files/FCK_Logo.png"
+    },
+    "16": {
+      "weekday": "Sunday",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "team_home": "FC Fredericia",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/8/81/FC_Fredericia.png",
+      "team_away": "AGF",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Agf-logo.png"
+    }
+  },
+  "beverages": {
+    "21": {
+      "name": "Carlsberg Nordic",
+      "description": "Danish, Alcohol free beer, 0,5%",
+      "price": "60 dkk",
+      "image": "https://politiken.dk/incoming/img8643041.d8hluw/ALTERNATES/p1x1_1275/28959%20Nordic%202022%20B",
+      "tag": "bottled"
+    },
+    "22": {
+      "name": "Carlsberg",
+      "description": "A smooth and refreshing lager with a crisp taste, 4,6%",
+      "price": "80 dkk",
+      "image": "https://shop.carlsbergdanmark.dk/-/media/DK/Content_images/2022/22_04/Carlsberg.png?h=450&w=450&hash=B0E6487F6C9CA0C211002A3F128374E3",
+      "tag": "draught"
+    },
+    "23": {
+      "name": "Tuborg Classic",
+      "description": "The classic from Tuborg, 4,6%",
+      "price": "80 dkk",
+      "image": "https://depothorsens.dk/cdn/shop/files/6433664336dk318jpg.jpg?v=1728030665&width=1445",
+      "tag": "draught"
+    },
+    "24": {
+      "name": "Guinness",
+      "description": "The classic Guiness from Ireland, 4,2%",
+      "price": "80 dkk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Guinness_7686a.jpg",
+      "tag": "draught"
+    },
+    "25": {
+      "name": "Fullers ESB",
+      "description": "English Strong Bitter, 5,9%",
+      "price": "60 dkk",
+      "image": "https://getollie.com/wp-content/uploads/2024/08/fullers-esb-credit-absolute-beer-1000x1000-1.jpg",
+      "tag": "bottled"
+    },
+    "26": {
+      "name": "Corona",
+      "description": "Mexican Lager, 4,6%",
+      "price": "60 dkk",
+      "image": "https://www.brewer-world.com/wp-content/uploads/2020/03/corona-virus-corona-beer-1-1.jpg",
+      "tag": "bottled"
+    },
+    "27": {
+      "name": "Diplomatico Reserva Exclusiva",
+      "description": "Venezuelan Rum, 40%",
+      "price": "140 dkk",
+      "image": "https://slikforvoksne.dk/images/Ron%20de%20venezuela%20diplomatico%20reserva%20exclusiva%20rom-p.jpeg",
+      "tag": "rum"
+    },
+    "28": {
+      "name": "Oban 14 Years ",
+      "description": "Single malt, Scottish Whisky, 43%",
+      "price": "130 dkk",
+      "image": "https://slikforvoksne.dk/images/Oban%2014%20Years%20Old-p.jpg",
+      "tag": "whisky"
+    },
+    "29": {
+      "name": "Tallisker 10 Years",
+      "description": "Single malt, Long finish, 46%",
+      "price": "120 dkk",
+      "image": "https://rombo.dk/media/catalog/product/cache/a470ee963d4b763a907ec34d3b26a36e/t/a/talisker_10_yo_single_malt_scotch_whisky.png",
+      "tag": "whisky"
+    }
+  },
+  "songs": {
+    "31": {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "length": "2:03"
+    },
+    "32": {
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "length": "3:52"
+    },
+    "33": {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "length": "5:55"
+    },
+    "34": {
+      "title": "Shotgun",
+      "artist": "George Ezra",
+      "length": "4:02"
+    },
+    "35": {
+      "title": "Let it go",
+      "artist": "Frozen",
+      "length": "3:12"
+    },
+    "36": {
+      "title": "Shallow",
+      "artist": "Lady Gaga & Bradley Cooper",
+      "length": "5:01"
+    },
+    "37": {
+      "title": "Wannabe",
+      "artist": "Spice Girls",
+      "length": "2:52"
+    },
+    "38": {
+      "title": "A Million Dreams",
+      "artist": "The Greatest Showman",
+      "length": "2:45"
+    },
+    "39": {
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "length": "1:59"
+    },
+    "40": {
+      "title": "A Whole New World",
+      "artist": "Alladin",
+      "length": "2:43"
+    },
+    "41": {
+      "title": "I Wanna Dance With Somebody",
+      "artist": "Whitney Houston",
+      "length": "3:29"
+    },
+    "42": {
+      "title": "Valerie",
+      "artist": "Amy Winehouse",
+      "length": "4:21"
+    },
+    "43": {
+      "title": "Summer Nights",
+      "artist": "Grease",
+      "length": "2:48"
+    }
+  }
+}
